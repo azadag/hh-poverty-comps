@@ -36,11 +36,10 @@ Poverty rates are calculated for these household types
 The first household type should serve as a baseline for all households. It is male or female headed, partnered, with children.
 
 ## Code Source
-LIS' two part Stata [self-teaching](http://www.lisdatacenter.org/resources/self-teaching/) tutorial. [Part 1](http://www.lisdatacenter.org/workshop/stata-part-I.pdf) teaches you how to create poverty rates, and gini levels of different types from the micro-data.
-[Part 2](http://www.lisdatacenter.org/workshop/stata-part-II.pdf) teaches you how to combine household and individual datasets to create descriptive statistics on household types.
+LIS provides a two part [self-teaching](http://www.lisdatacenter.org/resources/self-teaching/) tutorial with SAS, Stata and SPSS. [Part 1](http://www.lisdatacenter.org/workshop/stata-part-I.pdf) teaches you how to create poverty rates, and gini levels of different types from the micro-data, and [Part 2](http://www.lisdatacenter.org/workshop/stata-part-II.pdf) teaches you how to combine household and individual datasets to create descriptive statistics on household types.
 
-I combined code logic from the two parts to create poverty statistics for different types of households.
-The full dataset is combined, data is recoded, then subsetted by household, partner, and child status. Note that the code will not work for countries that use different income and tax data definitions e.g. Sweden, Japan.
+I combined logic from the two parts to create poverty statistics for different types of households.
+The full dataset is combined, data is recoded, then subsetted by household, partner, and child status, which are used to create the various poverty definitions. Note that the code will not work for countries that use different income and tax data definitions e.g. Sweden, Japan.
 
 ## Data Output
 | Poverty Rate by Country / HH Type | Market Income  - Before Taxes / Transfers | After Taxes, Social Insurance, Univ. Benefits | After Taxes, all Transfers  | 
