@@ -1,6 +1,6 @@
 | Poverty Rate by Country / HH Type | Market Income  - Before Taxes / Transfers | After Taxes, Social Insurance, Univ. Benefits | After Taxes, all Transfers  | 
 |:----------------------------------|------------------------------------------:|----------------------------------------------:|----------------------------:| 
-|##US                                |                                           |                                               |                             | 
+|_US_                                |                                           |                                               |                             | 
 | M/F Head HH  Partner, w/ Children |  21.8                                     |  20.0                                         |  18.4                       | 
 | F Head HH no Partner, w/ Children |  38.0                                     |  34.1                                         |  23.9                       | 
 | F Head HH Partner, w/ Children    |  20.0                                     |  19.9                                         |  14.7                       | 
