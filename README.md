@@ -3,7 +3,7 @@ hh-poverty-comps
 
 ## Introduction
 Creates international comparisons of market and post transfer household poverty rates by household type 
-(partner, children status) for use with LIS micro-data. A blog post by M. Bruenig got me interested in playing with this data [data](http://www.demos.org/blog/4/14/14/single-mother-child-poverty-myth)
+(partner, children status) for use with LIS micro-data. A blog post by M. Bruenig got me interested in playing with this  [data](http://www.demos.org/blog/4/14/14/single-mother-child-poverty-myth)
 
 Stata code is used with the [LIS Data Center's](http://www.lisdatacenter.org/) cross-country micro-data LISSY interface.
 Code needs to be manually adjusted for each country that is added to the list.
