@@ -41,7 +41,7 @@ LIS provides a two part [self-teaching](http://www.lisdatacenter.org/resources/s
 I combined logic from the two parts to create poverty statistics for different types of households.
 The full dataset is combined, data is recoded, then subsetted by household, partner, and child status, which are used to create the various poverty definitions. Note that the code will not work for countries that use different income and tax data definitions e.g. Sweden, Japan.
 
-## Data Output
+## Data Summary
 | Poverty Rate by Country / HH Type | Market Income  - Before Taxes / Transfers | After Taxes, Social Insurance, Univ. Benefits | After Taxes, all Transfers  | 
 |:----------------------------------|------------------------------------------:|----------------------------------------------:|----------------------------:| 
 |_US_                                |                                           |                                               |                             | 
@@ -121,6 +121,7 @@ The full dataset is combined, data is recoded, then subsetted by household, part
 | F Head HH Partner, No Children    | 9.0                                       | 6.5                                           | 5.4                         | 
 | F Head HH no Partner, No Children | 23.9                                      | 22.8                                          | 12.0                        | 
 
+A more readable output can be found [here](https://docs.google.com/spreadsheets/d/1rgK8eBk0fpKwPxUFIRSBDy4VvnW37hW-mpZ404I1yIU/edit?usp=sharing)
 
 ## Additional Helpful LIS Links
 [List of variables](http://www.lisdatacenter.org/wp-content/uploads/our-lis-documentation-variables-list.pdf)
