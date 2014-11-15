@@ -26,6 +26,15 @@ Three types of poverty rates are outputed for each country. (This paper on types
 *	After Taxes, Social Insurance, Univ. Benefits	
 *	After Taxes, and all Transfers 
 
+Poverty rates are calculated for these household types
+* M/F Head HH  Partner, w/ Children
+* F Head HH no Partner, w/ Children
+* F Head HH Partner, w/ Children
+* F Head HH Partner, No Children
+* F Head HH no Partner, No Children
+
+The first household type should serve as a baseline for all households. It is male or female headed, partnered, with children.
+
 ## Code Source
 LIS' two part Stata [self-teaching](http://www.lisdatacenter.org/resources/self-teaching/) tutorial. [Part 1](http://www.lisdatacenter.org/workshop/stata-part-I.pdf) teaches you how to create poverty rates, and gini levels of different types from the micro-data.
 [Part 2](http://www.lisdatacenter.org/workshop/stata-part-II.pdf) teaches you how to combine household and individual datasets to create descriptive statistics on household types.
